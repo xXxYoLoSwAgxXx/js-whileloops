@@ -81,7 +81,7 @@ while (i<9){
 
 /*5. Multiples of 3 and 5. Create a while loop that will loop through 100 numbers. Your job is to program the following:
 
- a) if the number is multiple of 3, it should print "dev"
+ a) if the number is a multiple of 3, it should print "dev"
  b) if the number is a multiple of 5, it should print "league"
  c) if the number is a multiple of 3 and 5, it should print "devleague homie!"
  d) if the number is neither a multiple of 3 and 5, it should print the number
