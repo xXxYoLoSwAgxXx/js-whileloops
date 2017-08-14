@@ -16,7 +16,11 @@ while (i<10){
 //Let's practice using some while loops.
 
 
-/*1. Use a while loop to create the following message:
+/*1. Use a while loop and print out a list of numbers from 1 to 10*/
+
+
+
+/*2. Use a while loop to create the following message:
 
 "Now serving 1."
 "Now serving 2."
@@ -27,9 +31,19 @@ while (i<10){
 
 
 
+/*3. Use a while loop to loop through the tvShows array and print out the following:
+
+"I like to binge watch Breakig Bad."
+"I like to binge watch Game of Thrones."
+"I like to binge watch The Bachelor."
+"I like to binge watch The Walking Dead."
+"I like to binge watch Keeping up with the Kardasians."*/
+
+var tvShows = ["Breaking Bad", "Game of Thrones", "The Bachelor", "The Walking Dead", "Keeping Up with the Kardasians"];
 
 
-/*2. Generate a multiplication table for the number 3 and print out the following:
+
+/*4. Generate a multiplication table for the number 3 and print out the following:
 
 1 x 3 = 3
 2 x 3 = 6
@@ -43,7 +57,9 @@ while (i<10){
 
 
 
-/*3. Multiples of 3 and 5. Create a while loop that will loop through 100 numbers. Your job is to program the following:
+
+
+/*5. Multiples of 3 and 5. Create a while loop that will loop through 100 numbers. Your job is to program the following:
 
  a) if the number is multiple of 3, it should print "dev"
  b) if the number is a multiple of 5, it should print "league"
