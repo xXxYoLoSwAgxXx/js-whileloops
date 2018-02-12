@@ -87,6 +87,16 @@ devleague homie!
 ...*/
 
 
+/*
+ * #6
+ * Function - buyDonut
+ * Declare a variable named `donutPrice` and assign it with a number value of 5
+ * Declare a variable named `donutBought` and assign it with a number value of 0.
+ *
+ * Create a function named `buyDonut` which takes a parameter named budget. Within this function, write a while loop that
+ will purchase a donut as long as you have the sufficient funds.
+ *Pass in a number value to invoke your function. Console.log donutBought.
+*/ 
 
 
 
